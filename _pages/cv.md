@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV & Skills"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,29 +11,25 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. in Computer Science**, Hong Kong University of Science and Technology, 2024 - Present
+* Ph.D. in Computer Science, Hong Kong University of Science and Technology, 2024 - Present
   * HKUST NLP Group
-  * Advisor: Professor Junxian He
-* **B.Eng.**, Shanghai Jiao Tong University, 2020 - 2024
+  * Ph.D. supervisor: Professor Junxian He
+* B.Eng., Shanghai Jiao Tong University, 2020 - 2024
 
 Research Experience
 ======
-* **Research Intern**, MINIMAX, February 2025 - Present
-* **Research Intern**, Tencent WXG, June 2024 - September 2024
+* Research Intern, MINIMAX, February 2025 - Present
+* Research Intern, Tencent WXG, June 2024 - September 2024
   * Advisor: Zifei Shan
-* **Research Intern**, Shanghai AI Lab, June 2023 - December 2023
+* Research Intern, Shanghai AI Lab, June 2023 - December 2023
   * Advisor: Prof. Yu Cheng
 
-Skills
+Research Interests
 ======
 * Natural language processing and machine learning
-* Large language model reasoning and reinforcement learning
-* Vision-language models, chart understanding, and hallucination analysis
-* LLM truthfulness, interpretability, and inner representations
-* Benchmark design and model evaluation
-* Verifiable reasoning-data synthesis
-* Parameter-efficient module composition
-* Research code and publication-associated repositories
+* LLM reasoning and reinforcement learning
+* Hallucination in vision-language models
+* LLM truthfulness and interpretability
 
 Honors
 ======
@@ -47,7 +43,7 @@ Publications
 
 Contact
 ======
-* Email: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
-* GitHub: [Vicent0205](https://github.com/Vicent0205)
-* Google Scholar: [Junteng Liu](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
-* X: [@junteng88716710](https://twitter.com/junteng88716710)
+* Email: jliugi@connect.ust.hk
+* GitHub: Vicent0205
+* Google Scholar
+* X (Twitter): @junteng88716710

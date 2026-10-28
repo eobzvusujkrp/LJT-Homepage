@@ -3,7 +3,7 @@ site_theme: "default"
 title: "Junteng Liu"
 title_separator: "-"
 name: &name "Junteng Liu"
-description: &description "Junteng Liu's academic homepage and research portfolio"
+description: &description "Junteng Liu's academic homepage"
 url: https://eobzvusujkrp.github.io
 baseurl: "/LJT-Homepage"
 repository: "eobzvusujkrp/LJT-Homepage"
@@ -12,8 +12,8 @@ author:
   avatar: "profile.png"
   name: "Junteng Liu"
   pronouns:
-  bio: "First-year Ph.D. candidate in Computer Science, HKUST NLP Group."
-  location: "Hong Kong SAR"
+  bio: "First-year Ph.D. candidate at HKUST NLP Group."
+  location: "Hong Kong"
   employer: "Hong Kong University of Science and Technology"
   uri:
   email: "jliugi@connect.ust.hk"
@@ -116,7 +116,6 @@ social:
   links:
     - "https://github.com/Vicent0205"
     - "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
-    - "https://twitter.com/junteng88716710"
 
 analytics:
   provider: "false"
