@@ -5,8 +5,8 @@ title_separator: "-"
 name: &name "Junteng Liu"
 description: &description "Junteng Liu's academic homepage and research portfolio"
 url: https://eobzvusujkrp.github.io
-baseurl: "/junteng-liu-academicpages"
-repository: "eobzvusujkrp/junteng-liu-academicpages"
+baseurl: "/LJT-Homepage"
+repository: "eobzvusujkrp/LJT-Homepage"
 
 author:
   avatar: "profile.png"
