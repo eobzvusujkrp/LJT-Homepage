@@ -7,9 +7,18 @@ redirect_from:
   - /about.html
 ---
 
+## About
+
 I am a first-year Ph.D. candidate in Computer Science at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/), where I work in the [HKUST NLP Group](https://hkust-nlp.github.io/) under the supervision of [Professor Junxian He](https://jxhe.github.io/). I received my B.Eng. from Shanghai Jiao Tong University in June 2024.
 
 My research focuses on natural language processing and machine learning. My current interests include large language model reasoning and reinforcement learning, hallucination in vision-language models, and LLM truthfulness and interpretability.
+
+My publication record is included below and is also organized by category on the [publications page](/publications/).
+
+{% include base_path %}
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 ## Academic Background
 
@@ -21,13 +30,6 @@ My research focuses on natural language processing and machine learning. My curr
 - **MINIMAX**, Research Intern, February 2025 - Present
 - **Tencent WXG**, Research Intern, June 2024 - September 2024; advised by Zifei Shan
 - **Shanghai AI Lab**, Research Intern, June 2023 - December 2023; advised by Prof. Yu Cheng
-
-## Publications
-
-{% include base_path %}
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 ## Skills
 
