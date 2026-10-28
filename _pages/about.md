@@ -22,6 +22,13 @@ My research focuses on natural language processing and machine learning. My curr
 - **Tencent WXG**, Research Intern, June 2024 - September 2024; advised by Zifei Shan
 - **Shanghai AI Lab**, Research Intern, June 2023 - December 2023; advised by Prof. Yu Cheng
 
+## Publications
+
+{% include base_path %}
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 ## Skills
 
 - Natural language processing and machine learning research
