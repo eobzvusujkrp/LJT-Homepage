@@ -1,12 +1,8 @@
 ---
-title: "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models"
+title: "Replaced by C-Eval publication"
 collection: publications
 category: conferences
-permalink: /publication/c-eval
-excerpt: "A multi-level, multi-discipline Chinese benchmark for evaluating foundation models."
-date: 2023-01-01
-venue: "NeurIPS 2023"
-citation: "Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, and Junxian He. (2023). C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models. NeurIPS 2023."
+permalink: /publication/replaced-c-eval
+date: 2025-06-08
+published: false
 ---
-
-Co-authored NeurIPS 2023 benchmark paper for Chinese foundation-model evaluation.

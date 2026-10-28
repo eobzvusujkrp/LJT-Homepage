@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. candidate in Computer Science at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/), where I am advised by [Professor Junxian He](https://jxhe.github.io/) in the [HKUST NLP Group](https://hkust-nlp.github.io/). I received my B.Eng. from Shanghai Jiao Tong University in June 2024.
+I am a first-year Ph.D. candidate in Computer Science at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/), where I work in the [HKUST NLP Group](https://hkust-nlp.github.io/) under the supervision of [Professor Junxian He](https://jxhe.github.io/). I received my B.Eng. from Shanghai Jiao Tong University in June 2024.
 
-My research lies in natural language processing and machine learning. I am interested in large language model reasoning and reinforcement learning, hallucination in vision-language models, and LLM truthfulness and interpretability.
+My research focuses on natural language processing and machine learning. My current interests include large language model reasoning and reinforcement learning, hallucination in vision-language models, and LLM truthfulness and interpretability.
 
-## Education
+## Academic Background
 
 - **Hong Kong University of Science and Technology**, Ph.D. in Computer Science, 2024 - Present
 - **Shanghai Jiao Tong University**, B.Eng., 2020 - 2024
@@ -19,16 +19,27 @@ My research lies in natural language processing and machine learning. I am inter
 ## Research Experience
 
 - **MINIMAX**, Research Intern, February 2025 - Present
-- **Tencent WXG**, Research Intern, June 2024 - September 2024
-- **Shanghai AI Lab**, Research Intern, June 2023 - December 2023
+- **Tencent WXG**, Research Intern, June 2024 - September 2024; advised by Zifei Shan
+- **Shanghai AI Lab**, Research Intern, June 2023 - December 2023; advised by Prof. Yu Cheng
+
+## Skills
+
+- Natural language processing and machine learning research
+- Large language model reasoning and reinforcement learning
+- Vision-language model analysis, including chart understanding and hallucination
+- LLM truthfulness, interpretability, and inner-representation analysis
+- Benchmark and evaluation-suite design
+- Verifiable reasoning-data synthesis
+- Parameter-efficient module composition
+- Research code development and publication-associated repositories
 
 ## Honors
 
 - Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
-## Profiles
+## Contact
 
-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
-- [GitHub](https://github.com/Vicent0205)
-- [X / Twitter](https://twitter.com/junteng88716710)
 - Email: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
+- GitHub: [Vicent0205](https://github.com/Vicent0205)
+- Google Scholar: [Junteng Liu](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
+- X: [@junteng88716710](https://twitter.com/junteng88716710)

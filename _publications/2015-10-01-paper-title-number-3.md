@@ -1,12 +1,8 @@
 ---
-title: "On the Universal Truthfulness Hyperplane Inside LLMs"
+title: "Replaced by truthfulness hyperplane publication"
 collection: publications
 category: conferences
-permalink: /publication/universal-truthfulness-hyperplane
-excerpt: "Exploring a universal internal representation associated with truthfulness in large language models."
-date: 2024-01-01
-venue: "EMNLP 2024"
-citation: "Junteng Liu, Shiqi Chen, Yu Cheng, and Junxian He. (2024). On the Universal Truthfulness Hyperplane Inside LLMs. EMNLP 2024."
+permalink: /publication/replaced-truthfulness
+date: 2015-10-01
+published: false
 ---
-
-First-authored EMNLP 2024 paper on LLM truthfulness and interpretability.
